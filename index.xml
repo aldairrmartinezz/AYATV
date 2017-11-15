@@ -1,212 +1,629 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 #EXTM3U
-
-#EXTINF:-1,Movi Android
-#EXTINF:-1,canal de las estrellas
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-#EXTINF:-1,canal de las estrellas 2 opcion
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1, trece
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,gala tv
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:-1,animax
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1,pakapaka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1,locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1,nick jr
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-#EXTINF:-1,el gourmet
-http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
-#EXTINF:-1,natgeo
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
-#EXTINF:-1,natgeo wild
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-#EXTINF:-1,ae
-http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
-#EXTINF:-1,history
-http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
-#EXTINF:-1,h2
-http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-#EXTINF:-1,lifetime
-http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
-#EXTINF:-1,sun channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1,garage
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-#EXTINF:-1,travel
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1,univision
-http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
-#EXTINF:-1,unimas
-http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
-#EXTINF:-1,telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1,fdf
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
-#EXTINF:-1,comedy central
-http://live.izzitv.mx/Content/HLS/Live/Channel(Comedy_Central)/index.m3u8
-#EXTINF:-1,unicable
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
-#EXTINF:-1,canal 5
-http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
-#EXTINF:-1,e
-http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
-#EXTINF:-1,isat
-http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
-#EXTINF:-1,distrito comedia 
-http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
-#EXTINF:-1,paramount
-http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
-#EXTINF:-1,tnt
-http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1,axn
-http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
-#EXTINF:-1,space
-http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:-1,warner
-http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
-#EXTINF:-1,sony
-http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
-#EXTINF:-1,tbs
-http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
-#EXTINF:-1,depelicula
-http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
-#EXTINF:-1,golden
-http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,tcm
-http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
-#EXTINF:-1,cinemax
-http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
-#EXTINF:-1,tnt series
-http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
-#EXTINF:-1,sudance
-http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
-#EXTINF:-1,espn
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1,espn 2
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-#EXTINF:-1,espn 3
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1,f1
-http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
-#EXTINF:-1,univision tdn
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-#EXTINF:-1,tdn
-http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
-#EXTINF:-1,nfl
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,mtv
-http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
-#EXTINF:-1,bandamax
-http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-#EXTINF:-1,ritmoson
-http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
-#EXTINF:-1,telehit
-http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
-#EXTINF:-1,vh1
-http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
-#EXTINF:-1,az honduras
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,niu tv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1,unicanal
-http://strm.unicanal.com.py/live/unicanal_src.m3u8
-#EXTINF:-1,telecafe
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,telefe
-http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1,boomerang
-
-https://live.tutvplay.com/CH/b2tNK0JiV3N1SjZBMEhENlBZZ2lmdz09/Boomerang.m3u8
-#EXTINF:-1,el 13
-http://ar.watcha.live/ch7/hi.m3u8
-#EXTINF:-1,tele t
-http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
-#EXTINF:-1,efekto tv
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
-#EXTINF:-1,milenio tv
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,mvs noticias
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-#EXTINF:-1,cnn chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,tele sur 
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:-1, antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,8tv
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1,rtv
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1,mega españa
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
-#EXTINF:-1,a tes series
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1, nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,virgin
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?www.tecnotv.info
-#EXTINF:-1,portal mx
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?www.tecnotv.info
-#EXTINF:-1,planeta mx
-http://84.43.207.130/planetahd/planetahd.m3u8?www.tecnotv.info
-#EXTINF:-1,colosal tv
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?www.tecnotv.info
-#EXTINF:-1,telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?www.tecnotv.info
-#EXTINF:-1,metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1,pop hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1,r&b
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1,rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1,rap 2k
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1,rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1,today
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1,90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1,y2k
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1,mexicanas
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1,tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1,yes
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?www.tecnotv.info
-#EXTINF:-1,azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,canal once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-#EXTINF:-1,tv nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1,ticavision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,nex tv
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1,tvp culiacan
-http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
-#EXTINF:-1,tv mochis
-http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
-#EXTINF:-1,yanqui tv
-http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-#EXTINF:-1,tv veracruz 
-http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
-#EXTINF:-1,peliculas 24/7
-https://youtu.be/9LpJQfoowmQ
-#EXTINF:-1,los dinosaurios 24/7
-
-https://youtu.be/1QOErTDciuQ
-#EXTINF:-1,la niñera 24/7
-https://youtu.be/cgxD9U29ukQ
- 
+#EXTINF:-1,A&E P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/205.ts
+#EXTINF:-1,A3S P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/140.ts
+#EXTINF:-1,ADN 40 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/176.ts
+#EXTINF:-1,AMC P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/158.ts
+#EXTINF:-1,Antena 3 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/134.ts
+#EXTINF:-1,AXN P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/206.ts
+#EXTINF:-1,Az Cinema P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/157.ts
+#EXTINF:-1,Az Clic P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/146.ts
+#EXTINF:-1,Az Corazón P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/175.ts
+#EXTINF:-1,Az Mundo P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/188.ts
+#EXTINF:-1,Azteca 7 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/174.ts
+#EXTINF:-1,Baby First P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/139.ts
+#EXTINF:-1,Bloomberg P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/145.ts
+#EXTINF:-1,Boomerang P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/177.ts
+#EXTINF:-1,Canal 5 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/173.ts
+#EXTINF:-1,Canal del Congreso P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/181.ts
+#EXTINF:-1,Canal Judicial P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/129.ts
+#EXTINF:-1,Cartoon Network P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/182.ts
+#EXTINF:-1,Cinemax P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/133.ts
+#EXTINF:-1,Comedy Central P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/200.ts
+#EXTINF:-1,DHE P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/187.ts
+#EXTINF:-1,Distrito Comedia P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/194.ts
+#EXTINF:-1,E! P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/198.ts
+#EXTINF:-1,El Gourmet P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/193.ts
+#EXTINF:-1,Food Network P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/186.ts
+#EXTINF:-1,Foro TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/172.ts
+#EXTINF:-1,Fox Life P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/192.ts
+#EXTINF:-1,FOX P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/164.ts
+#EXTINF:-1,Fox Premium Action P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/163.ts
+#EXTINF:-1,Fox Premium Movies P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/162.ts
+#EXTINF:-1,Fox Premium Series P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/161.ts
+#EXTINF:-1,Fox Sports 1 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/160.ts
+#EXTINF:-1,Fox Sports 2 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/159.ts
+#EXTINF:-1,Fox Sports 3 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/152.ts
+#EXTINF:-1,FX P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/204.ts
+#EXTINF:-1,FXM P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/128.ts
+#EXTINF:-1,Gala TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/170.ts
+#EXTINF:-1,Glitz P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/191.ts
+#EXTINF:-1,Golden HD P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/156.ts
+#EXTINF:-1,Golf Latin America P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/150.ts
+#EXTINF:-1,Havoc P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/185.ts
+#EXTINF:-1,History P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/155.ts
+#EXTINF:-1,HMX P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/169.ts
+#EXTINF:-1,Hola TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/195.ts
+#EXTINF:-1,Imagen Televisión P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/127.ts
+#EXTINF:-1,Las Estrellas P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/171.ts
+#EXTINF:-1,Más Chic P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/199.ts
+#EXTINF:-1,Mexiquense P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/144.ts
+#EXTINF:-1,Milenio TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/149.ts
+#EXTINF:-1,Morbid TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/184.ts
+#EXTINF:-1,MTV Live P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/143.ts
+#EXTINF:-1,Multimedios P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/168.ts
+#EXTINF:-1,Multimedios Plus P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/167.ts
+#EXTINF:-1,Nick 2 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/180.ts
+#EXTINF:-1,Nickelodeon P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/183.ts
+#EXTINF:-1,Once TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/166.ts
+#EXTINF:-1,Paramount P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/179.ts
+#EXTINF:-1,Px Sports P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/148.ts
+#EXTINF:-1,RT Documentales P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/138.ts
+#EXTINF:-1,RT Noticias P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/126.ts
+#EXTINF:-1,Sony P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/203.ts
+#EXTINF:-1,Space P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/147.ts
+#EXTINF:-1,Star TVE P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/132.ts
+#EXTINF:-1,Studio Universal P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/151.ts
+#EXTINF:-1,Sundance P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/137.ts
+#EXTINF:-1,Syfy P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/190.ts
+#EXTINF:-1,Telefórmula P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/165.ts
+#EXTINF:-1,Telehit P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/142.ts
+#EXTINF:-1,Televisa MTY P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/178.ts
+#EXTINF:-1,Televisa Puebla P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/131.ts
+#EXTINF:-1,Tnt P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/154.ts
+#EXTINF:-1,Tnt Series P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/189.ts
+#EXTINF:-1,Tru TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/197.ts
+#EXTINF:-1,TVC Deportes P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/135.ts
+#EXTINF:-1,TVC P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/136.ts
+#EXTINF:-1,TVMás OK P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/130.ts
+#EXTINF:-1,Unicable P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/196.ts
+#EXTINF:-1,Universal Channel P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/202.ts
+#EXTINF:-1,VH1 P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/141.ts
+#EXTINF:-1,Warner Channel P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/201.ts
+#EXTINF:-1,Wobi TV P5
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/153.ts
+#EXTINF:-1,BANDAMAX OP2
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/325.ts
+#EXTINF:-1,ESPN OP2 HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/308.ts
+#EXTINF:-1,MTV OP2
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/323.ts
+#EXTINF:-1,NICK OP2
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/317.ts
+#EXTINF:-1,TIIN OP2
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/314.ts
+#EXTINF:-1,AMC HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/303.ts
+#EXTINF:-1,ATRES SERIES HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/318.ts
+#EXTINF:-1,CANAL 5 HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/330.ts
+#EXTINF:-1,CNN HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/300.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/321.ts
+#EXTINF:-1,ESPN 3 HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/307.ts
+#EXTINF:-1,ESPN HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/309.ts
+#EXTINF:-1,FORMULA 1 HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/305.ts
+#EXTINF:-1,FORO TV HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/331.ts
+#EXTINF:-1,GALA TV HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/329.ts
+#EXTINF:-1,HOLA TV HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/319.ts
+#EXTINF:-1,MTV LIVE HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/322.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/312.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/313.ts
+#EXTINF:-1,NBA TV HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/306.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/302.ts
+#EXTINF:-1,SUNDANCE CHANNEL HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/301.ts
+#EXTINF:-1,TDN HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/310.ts
+#EXTINF:-1,TELEHIT HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/324.ts
+#EXTINF:-1,TNT HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/304.ts
+#EXTINF:-1,UNICABLE HD
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/328.ts
+#EXTINF:-1,UNIVISION TDN MEX
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/311.ts
+#EXTINF:-1,USA: Abc
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/267.ts
+#EXTINF:-1,USA: Espn2
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/269.ts
+#EXTINF:-1,USA: Msnbc
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/270.ts
+#EXTINF:-1,USA:AMC
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/274.ts
+#EXTINF:-1,USA:Animal
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/275.ts
+#EXTINF:-1,USA:BRAVO
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/276.ts
+#EXTINF:-1,USA:CBS
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/277.ts
+#EXTINF:-1,USA:CNBC
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/278.ts
+#EXTINF:-1,USA:COMEDY
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/279.ts
+#EXTINF:-1,USA:CW
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/280.ts
+#EXTINF:-1,USA:DISCOVERY
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/281.ts
+#EXTINF:-1,USA:ESPN
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/282.ts
+#EXTINF:-1,USA:Fox 43
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/283.ts
+#EXTINF:-1,USA:FOX NEWS
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/284.ts
+#EXTINF:-1,USA:Freeform
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/285.ts
+#EXTINF:-1,USA:FX
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/286.ts
+#EXTINF:-1,USA:my9
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/289.ts
+#EXTINF:-1,USA:NAT GEO
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/290.ts
+#EXTINF:-1,USA:NBC
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/291.ts
+#EXTINF:-1,USA:Nbcsn
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/292.ts
+#EXTINF:-1,USA:NICKELODEON
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/293.ts
+#EXTINF:-1,USA:PBS
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/294.ts
+#EXTINF:-1,USA:SYFY
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/295.ts
+#EXTINF:-1,USA:Tlc
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/296.ts
+#EXTINF:-1,A&E USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/265.ts
+#EXTINF:-1,E! USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/264.ts
+#EXTINF:-1,FX USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/210.ts
+#EXTINF:-1,Galavisión USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/209.ts
+#EXTINF:-1,HISTORY USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/263.ts
+#EXTINF:-1,LIFETIME USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/262.ts
+#EXTINF:-1,NATGEO MUNDO USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/261.ts
+#EXTINF:-1,NATGEO USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/260.ts
+#EXTINF:-1,NATGEO WILD USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/259.ts
+#EXTINF:-1,SYFY USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/258.ts
+#EXTINF:-1,Telemundo USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/207.ts
+#EXTINF:-1,TyC Sports USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/257.ts
+#EXTINF:-1,Unimás USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/208.ts
+#EXTINF:-1,Univisión TDN USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/255.ts
+#EXTINF:-1,UNIVISION USA
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/266.ts
+#EXTINF:-1,Baby TV Spanish
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/248.ts
+#EXTINF:-1,Bein En Español
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/237.ts
+#EXTINF:-1,Bein Sports English
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/236.ts
+#EXTINF:-1,BRAVO
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/224.ts
+#EXTINF:-1,BTN
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/234.ts
+#EXTINF:-1,Chelsea TV
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/246.ts
+#EXTINF:-1,CHILLER
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/225.ts
+#EXTINF:-1,Cine Sony
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/226.ts
+#EXTINF:-1,CNBC
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/253.ts
+#EXTINF:-1,CNBC World
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/252.ts
+#EXTINF:-1,Cozi Tv
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/245.ts
+#EXTINF:-1,El Rey Network
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/223.ts
+#EXTINF:-1,Eleven Sports
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/220.ts
+#EXTINF:-1,Fantasy
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/215.ts
+#EXTINF:-1,Fight Network
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/218.ts
+#EXTINF:-1,Fox Business
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/242.ts
+#EXTINF:-1,FOX Deportes
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/241.ts
+#EXTINF:-1,Fox Life
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/221.ts
+#EXTINF:-1,Fox News
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/212.ts
+#EXTINF:-1,Fox Soccer Plus
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/240.ts
+#EXTINF:-1,FS1
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/239.ts
+#EXTINF:-1,FS2
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/238.ts
+#EXTINF:-1,Fuse
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/213.ts
+#EXTINF:-1,FXM
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/233.ts
+#EXTINF:-1,FXX
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/232.ts
+#EXTINF:-1,FYI
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/229.ts
+#EXTINF:-1,Gol TV
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/244.ts
+#EXTINF:-1,Gol TV English
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/243.ts
+#EXTINF:-1,Hallmark
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/231.ts
+#EXTINF:-1,Hallmark Movies & Misteries
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/230.ts
+#EXTINF:-1,LIFETIME Movie Network
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/227.ts
+#EXTINF:-1,MSNBC
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/251.ts
+#EXTINF:-1,NBC
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/250.ts
+#EXTINF:-1,NBCSN
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/249.ts
+#EXTINF:-1,Real Madrid TV
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/216.ts
+#EXTINF:-1,Revolt
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/228.ts
+#EXTINF:-1,RTP Portugal
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/214.ts
+#EXTINF:-1,Sprout
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/211.ts
+#EXTINF:-1,Telexitos
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/217.ts
+#EXTINF:-1,The Golf Channel
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/235.ts
+#EXTINF:-1,Universo
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/219.ts
+#EXTINF:-1,A Plus P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/44.ts
+#EXTINF:-1,A&E P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/80.ts
+#EXTINF:-1,A3 Series P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/27.ts
+#EXTINF:-1,ADN 40 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/50.ts
+#EXTINF:-1,AMC P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/38.ts
+#EXTINF:-1,Animal Planet P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/5.ts
+#EXTINF:-1,Axn P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/74.ts
+#EXTINF:-1,Aym Sports P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/33.ts
+#EXTINF:-1,Az Cinema P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/17.ts
+#EXTINF:-1,Az Clic P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/113.ts
+#EXTINF:-1,Az Corazón P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/62.ts
+#EXTINF:-1,Az Mundo P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/32.ts
+#EXTINF:-1,Azteca 13 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/42.ts
+#EXTINF:-1,Azteca 7 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/43.ts
+#EXTINF:-1,Azteca Internacional P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/79.ts
+#EXTINF:-1,Baby First P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/94.ts
+#EXTINF:-1,Bandamax P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/88.ts
+#EXTINF:-1,Boomerang P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/125.ts
+#EXTINF:-1,Canal 5 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/56.ts
+#EXTINF:-1,Canal Once P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/68.ts
+#EXTINF:-1,Cartoon Network P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/41.ts
+#EXTINF:-1,Cinecanal P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/107.ts
+#EXTINF:-1,Cinemax P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/37.ts
+#EXTINF:-1,Comedy Central P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/67.ts
+#EXTINF:-1,Congreso de la Unión P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/119.ts
+#EXTINF:-1,De Película P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/106.ts
+#EXTINF:-1,DHE P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/26.ts
+#EXTINF:-1,Discovery Channel P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/124.ts
+#EXTINF:-1,Discovery Civilization P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/101.ts
+#EXTINF:-1,Discovery HH P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/3.ts
+#EXTINF:-1,Discovery Kids HD P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/112.ts
+#EXTINF:-1,Discovery Kids P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/11.ts
+#EXTINF:-1,Discovery Science P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/100.ts
+#EXTINF:-1,Discovery Theater P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/123.ts
+#EXTINF:-1,Discovery TLC P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/105.ts
+#EXTINF:-1,Discovery Turbo P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/4.ts
+#EXTINF:-1,Discovery World P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/122.ts
+#EXTINF:-1,Disney Channel P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/10.ts
+#EXTINF:-1,Disney JR P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/40.ts
+#EXTINF:-1,Disney XD P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/9.ts
+#EXTINF:-1,Distrito Comedia P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/99.ts
+#EXTINF:-1,El Financiero Bloomberg P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/31.ts
+#EXTINF:-1,El Gourmet P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/25.ts
+#EXTINF:-1,Entertainment P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/55.ts
+#EXTINF:-1,Espn 2 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/72.ts
+#EXTINF:-1,Espn 3 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/71.ts
+#EXTINF:-1,Espn P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/73.ts
+#EXTINF:-1,ESPN Plus P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/70.ts
+#EXTINF:-1,Food Network P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/24.ts
+#EXTINF:-1,Fórmula 1 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/118.ts
+#EXTINF:-1,Foro TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/49.ts
+#EXTINF:-1,Fox Life P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/98.ts
+#EXTINF:-1,Fox P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/54.ts
+#EXTINF:-1,Fox Premium Action P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/16.ts
+#EXTINF:-1,Fox Premium Cinema P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/15.ts
+#EXTINF:-1,Fox Premium Classics P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/14.ts
+#EXTINF:-1,Fox Premium Movies P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/13.ts
+#EXTINF:-1,Fox Premium Series P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/12.ts
+#EXTINF:-1,Fox Sports 1 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/87.ts
+#EXTINF:-1,Fox Sports 2 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/86.ts
+#EXTINF:-1,Fox Sports 3P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/23.ts
+#EXTINF:-1,FX P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/61.ts
+#EXTINF:-1,FXM P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/104.ts
+#EXTINF:-1,Gala TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/48.ts
+#EXTINF:-1,Garage TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/60.ts
+#EXTINF:-1,Glitz P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/97.ts
+#EXTINF:-1,Golden  P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/36.ts
+#EXTINF:-1,Golden Edge P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/35.ts
+#EXTINF:-1,Golf Latin America P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/78.ts
+#EXTINF:-1,Havoc P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/22.ts
+#EXTINF:-1,History P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/69.ts
+#EXTINF:-1,HMX P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/66.ts
+#EXTINF:-1,Hola TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/59.ts
+#EXTINF:-1,I.Sat P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/103.ts
+#EXTINF:-1,Imagen TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/117.ts
+#EXTINF:-1,Investigation Discovery HD P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/77.ts
+#EXTINF:-1,Investigation Discovery P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/47.ts
+#EXTINF:-1,Las Estrellas P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/46.ts
+#EXTINF:-1,Latin American Sports P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/116.ts
+#EXTINF:-1,Lifetime P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/2.ts
+#EXTINF:-1,Más Chic P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/58.ts
+#EXTINF:-1,Mexiquense P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/93.ts
+#EXTINF:-1,MTV Hits P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/111.ts
+#EXTINF:-1,MTV Live P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/84.ts
+#EXTINF:-1,MTV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/85.ts
+#EXTINF:-1,Multimedios P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/65.ts
+#EXTINF:-1,Natgeo Kids P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/76.ts
+#EXTINF:-1,Natgeo P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/1.ts
+#EXTINF:-1,Natgeo Wild P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/30.ts
+#EXTINF:-1,Nick 2 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/92.ts
+#EXTINF:-1,Nick JR P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/7.ts
+#EXTINF:-1,Nick P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/8.ts
+#EXTINF:-1,Nicktoons P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/6.ts
+#EXTINF:-1,Ocho TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/21.ts
+#EXTINF:-1,Px TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/115.ts
+#EXTINF:-1,Ritmoson P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/83.ts
+#EXTINF:-1,RT Documentales P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/91.ts
+#EXTINF:-1,Sony P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/20.ts
+#EXTINF:-1,Space P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/53.ts
+#EXTINF:-1,Studio Universal P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/29.ts
+#EXTINF:-1,Sundance P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/90.ts
+#EXTINF:-1,SuresTV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/89.ts
+#EXTINF:-1,Syfy P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/39.ts
+#EXTINF:-1,TBS P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/96.ts
+#EXTINF:-1,TCM P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/110.ts
+#EXTINF:-1,Telefórmula P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/64.ts
+#EXTINF:-1,Telehits P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/82.ts
+#EXTINF:-1,Teleritmo P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/114.ts
+#EXTINF:-1,Televisa MTY P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/95.ts
+#EXTINF:-1,Tiin P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/121.ts
+#EXTINF:-1,Tl Novelas P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/28.ts
+#EXTINF:-1,TNT P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/52.ts
+#EXTINF:-1,Tnt Series P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/51.ts
+#EXTINF:-1,Tooncast P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/120.ts
+#EXTINF:-1,Tru TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/63.ts
+#EXTINF:-1,Tv Más P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/18.ts
+#EXTINF:-1,TVC Deportes P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/34.ts
+#EXTINF:-1,TVC P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/19.ts
+#EXTINF:-1,TVE P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/109.ts
+#EXTINF:-1,Unicable P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/57.ts
+#EXTINF:-1,Universal Channel P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/75.ts
+#EXTINF:-1,Vh1 Classics P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/108.ts
+#EXTINF:-1,VH1 P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/81.ts
+#EXTINF:-1,Warner P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/45.ts
+#EXTINF:-1,Wobi TV P3
+http://149.56.241.86:25461/live/GOwWyhJ7oZ/jow22DQCUF/102.ts
